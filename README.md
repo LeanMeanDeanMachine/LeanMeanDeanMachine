@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeanMeanDeanMachine
-- 👀 I’m interested in ... Comtinuous Improvement and Automation
-- 🌱 I’m currently learning ... SQL and Backend Software Development at Promineo Tech
+- 👀 I’m interested in ... Continuous Improvement and Automation
+- 🌱 I’m currently learning ... Java and MySQL and Backend Software Development at Promineo Tech
 - 📫 How to reach me ... I'm not ready for a committed coding relationship. Yet.
 
 <!---
